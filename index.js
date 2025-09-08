@@ -9,8 +9,8 @@ catch {
 const mineflayer = require('mineflayer');
 
 // ✅ CONFIG
-const IP = '191.96.231.2';       // Minecraft server IP
-const PORT = 10578;              // Server port
+const IP = 'BROTHER_SMP_FF.aternos.me';       // Minecraft server IP
+const PORT = 18030;              // Server port
 const WEB_PORT = process.env.PORT || 3000; // Fake port for Render/web host
 const PASSWORD = 'Mishra@123';
 
